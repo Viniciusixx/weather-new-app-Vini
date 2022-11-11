@@ -21,9 +21,7 @@ Este é um projeto sobre Clima no Mundo
   <img alt="Video Weather" src=".github/project.png" width="100%" controls='controls'>
 </p>
 <p align='center'>Vídeo</p>
-<p align="center">
-  <video alt="Video Weather" src=".github/project2.mp4" width="100%" controls='controls'>
-</p>
+  https://youtu.be/-kjTj2uuB3c
 
 ## 🚀 Tecnologias
 
