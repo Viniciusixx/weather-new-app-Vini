@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O WheaterToday é um projeto que simula o clima de um Estado e País em tempo real, onde é possível adicionar qualquer lugar do mundo!
 
-## 🔖 Layout
+## 🔖 Layout 
 
 Você pode visualizar o layout do projeto através [DESSE LINK](). 
 
